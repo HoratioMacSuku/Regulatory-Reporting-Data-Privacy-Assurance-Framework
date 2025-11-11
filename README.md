@@ -123,7 +123,7 @@ loan_data_validation_framework/
 ---
 
 ##  9. Sample Dataset
-*(Sample dataset omitted for brevity — typically includes anonymized loan-level records.)*
+
 
 ---
 
