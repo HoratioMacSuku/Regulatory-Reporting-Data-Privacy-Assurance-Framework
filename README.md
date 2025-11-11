@@ -1,6 +1,6 @@
 #  Regulatory Reporting & Data Privacy Assurance Framework
 
-##  Project Overview
+##  1. Project Overview
 
 This framework validates and governs **loan data** used in regulatory and business reporting.  
 It ensures that all **loan applications, repayments, and balances** are complete, consistent, and compliant with standards set by:
@@ -13,7 +13,7 @@ The framework automates validation, enforces business and regulatory rules, appl
 
 ---
 
-##  Purpose & Benefits
+##  2. Purpose & Benefits
 
 Financial institutions face increasing pressure to ensure the **accuracy, completeness, and privacy compliance** of loan (KYC) data under **Basel III**, **IFRS 9**, and **GDPR**.
 
@@ -33,7 +33,7 @@ Financial institutions face increasing pressure to ensure the **accuracy, comple
 
 ---
 
-##  Integration & Compatibility
+##  3. Integration & Compatibility
 
 | Category | Description |
 |-----------|--------------|
@@ -47,7 +47,7 @@ Financial institutions face increasing pressure to ensure the **accuracy, comple
 
 ---
 
-##  Report Scope & Submission Standards
+##  4. Report Scope & Submission Standards
 
 | Item | Details |
 |------|----------|
@@ -61,7 +61,7 @@ Financial institutions face increasing pressure to ensure the **accuracy, comple
 
 ---
 
-##  Dataset Schema
+##  5. Dataset Schema
 
 | Field | Description | Type | Required | Priority |
 |--------|--------------|------|-----------|-----------|
@@ -80,7 +80,7 @@ Financial institutions face increasing pressure to ensure the **accuracy, comple
 
 ---
 
-##  Control Framework Overview
+##  6. Control Framework Overview
 
 | Layer | Objective | Rationale |
 |--------|------------|------------|
@@ -91,7 +91,7 @@ Financial institutions face increasing pressure to ensure the **accuracy, comple
 
 ---
 
-##  Repository & Folder Structure
+##  7. Repository & Folder Structure
 
 loan_data_validation_framework/
 - config/ # YAML files defining validation rules & thresholds
@@ -108,7 +108,7 @@ loan_data_validation_framework/
 
 ---
 
-##  Validation Rules Matrix
+##  8. Validation Rules Matrix
 
 | Category | Rule Description | Threshold | Priority | Recommendation |
 |-----------|-----------------|------------|-----------|----------------|
@@ -123,12 +123,12 @@ loan_data_validation_framework/
 
 ---
 
-##  Sample Dataset
+##  9. Sample Dataset
 *(Sample dataset omitted for brevity — typically includes anonymized loan-level records.)*
 
 ---
 
-##  Issues Found
+##  10. Issues Found
 
 | Issue | Description | Severity | Count |
 |--------|--------------|-----------|--------|
@@ -136,7 +136,7 @@ loan_data_validation_framework/
 
 ---
 
-## 1 Compliance Summary
+## 11. Compliance Summary
 
 | Control Layer | Pass Rate | Status | Notes |
 |----------------|------------|---------|--------|
@@ -147,7 +147,7 @@ loan_data_validation_framework/
 
 ---
 
-## 1 Reliability Score & Submission Decision
+## 12. Reliability Score & Submission Decision
 
 | Metric | Value |
 |---------|--------|
@@ -157,7 +157,7 @@ loan_data_validation_framework/
 
 ---
 
-## 1 Operational Workflow
+## 13. Operational Workflow
 
 1. **Load Configurations** – Define validation parameters in YAML  
 2. **Ingest Loan Data** – Extract datasets from DBFS or relational databases  
@@ -167,7 +167,7 @@ loan_data_validation_framework/
 
 ---
 
-## 1 Value Delivered
+## 14. Value Delivered
 
 - ** Improved Data Reliability**  
   Achieved a 96% reliability score with only one privacy-related exception.
