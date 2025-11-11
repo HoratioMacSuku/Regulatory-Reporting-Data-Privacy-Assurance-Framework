@@ -139,10 +139,10 @@ https://github.com/HoratioMacSuku/Regulatory-Reporting-Data-Privacy-Assurance-Fr
 
 | Control Layer | Pass Rate | Status | Notes |
 |----------------|------------|---------|--------|
-| Schema Validation | 100% | ✅ Pass | Structure correct |
-| Business Rules | 100% | ✅ Pass | All values valid |
-| Regulatory Rules | 100% | ✅ Pass | All categories correct |
-| Privacy Flag Validation | 96% | ✅ Pass | One masked record |
+| Schema Validation | 100% |  Pass | Structure correct |
+| Business Rules | 100% |  Pass | All values valid |
+| Regulatory Rules | 100% |  Pass | All categories correct |
+| Privacy Flag Validation | 96% |  Pass | One masked record |
 
 ---
 
