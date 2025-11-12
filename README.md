@@ -123,7 +123,9 @@ loan_data_validation_framework/
 ---
 
 ##  9. Sample Dataset
-https://github.com/HoratioMacSuku/Regulatory-Reporting-Data-Privacy-Assurance-Loan-Data/blob/main/Loan%20Repayment%20Privacy%20Data.xlsx
+
+<small><a href="https://github.com/HoratioMacSuku/Regulatory-Reporting-Data-Privacy-Assurance-Loan-Data/blob/main/Loan%20Repayment%20Privacy%20Data.xlsx">Loan Repayment Privacy Data</a></small>
+
 ---
 
 ##  10. Issues Found
